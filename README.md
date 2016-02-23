@@ -7,9 +7,6 @@ WDI05 Project 4
 
 Rod Broker is a website where local fishing rod craftsman can sell their wares to a national and international audience. Builders can come in and make a page that lists what types of fishing rods they make and upload photos. Users can search builders by the data they enter, or generally search any builder. Users must log-in to see the Builder contact information.
 
-Insight aggregates text and pushes it into the Watson PI API, this allows us to describe the personality of a group of people to describe the personality of groups talking about a trending twitter topic, user or string, or generally any text (1000 character - 25000 character) entered by the user. A switch at the bottom will allow you to select Twitter or other. The produced personalities are transformed into Myers Briggs types, and visualized via D3 tools. If a user logs in to our validated login we’ll give the option of saving previous personality profiles, showing recent profiles and commenting on them.
-
-
 ###Installation
 
 You must have Bower, NPM and Rails installed to use this application.
@@ -38,6 +35,9 @@ Gems:
 Devise, Carousel, Paperclip, ImageMagickBootstrap-Form
 
 URL: https://rod-client.firebaseapp.com
+
 User stories: https://trello.com/b/F5ao0qaT/rod-broker
+
 Repository: https://github.com/erikapallasmoore/Project4
+
 Wire frames: in this folder
