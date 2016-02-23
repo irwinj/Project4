@@ -20,7 +20,7 @@ To install:
   <li> 'npm init' and 'npm install' in the main folder</li>
   <li> In the server folder, 'rake db:create', then 'rake db:migrate' </li>
   <li> 'Bundle Install' in the same folder</li>
-  <li> 'rails s' to start up the server<li>
+  <li> 'rails s' to start up the server</li>
   <li> Now open another terminal window in the client folder, 'bower install'</li>
   <li> Start your client-side server with 'http-server'</li>
 Now visit 'Localhost:8080' to take it for a spin!
@@ -35,7 +35,7 @@ Back end:
 Ruby, Rails 
 
 Gems:
-Devise, Carousel, Paperclip, ImageMagickBootstrap-Form, D3js, Skrollr, Puma
+Devise, Carousel, Paperclip, ImageMagickBootstrap-Form
 
 URL: https://rod-client.firebaseapp.com
 User stories: https://trello.com/b/F5ao0qaT/rod-broker
